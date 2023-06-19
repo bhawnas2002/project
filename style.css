@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body,h1,h2,h3,h4,h5,h6{
+    font-family: "Open Sans", sans-serif;
+}
+.whitepadding{
+    /* w3-padding: large; */
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;    
+    color: #fff;
+    background-color: #4d636f;
+}
+.biglogo{
+    border-radius: 50%;
+    height: 50vh;
+}
+
+.bug{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    height: 3vh;
+}
+#Foot{
+    background-color: #435761!important;
+    padding-top: 32px!important;
+    padding-bottom: 28px!important;
+    font-weight: 400;
+    font-size: large;
+}
+.footer{
+    background-color: #303e45;
+    padding-left: 18px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    color: white;
+    font-size: 15px;
+}
+.foot{
+    color: white;
+}
